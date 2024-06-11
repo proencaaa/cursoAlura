@@ -1,7 +1,7 @@
 # cursoAlura
-YOKOSO
+**YOKOSO**
 
-meu nome é Lucas Proenca
+meu nome é **Lucas Proenca**
 
 
 -Estou estudando na alura (e futuramente começarei um curso)
